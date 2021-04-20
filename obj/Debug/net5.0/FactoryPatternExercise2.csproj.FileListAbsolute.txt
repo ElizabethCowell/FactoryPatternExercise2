@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.csprojAssemblyReference.cache
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.exe
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.deps.json
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.runtimeconfig.dev.json
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.dll
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\ref\FactoryPatternExercise2.dll
+C:\Users\eholy\repos\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.pdb
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.dll
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\ref\FactoryPatternExercise2.dll
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.pdb
+C:\Users\eholy\repos\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.genruntimeconfig.cache
